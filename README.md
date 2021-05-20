@@ -37,7 +37,7 @@ Se tiene una lista de docentes los cuales tienen:
 
 ## Problema
 
-Se desea que se obtener una lista de cursos posibles. 
+Se desea obtener una lista de cursos posibles. 
 El curso posible tiene qu tener: 
   
 * Un docente.
